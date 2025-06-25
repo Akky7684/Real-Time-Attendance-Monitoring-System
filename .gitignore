@@ -1,0 +1,26 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Environment files
+.env
+
+# SQLite database
+*.sqlite3
+
+# Django migration files (optional)
+*/migrations/__pycache__/
+*.log
+
+# VS Code or PyCharm settings (optional)
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
